@@ -2,4 +2,4 @@ output/*
 数据处理.html
 .vscode/settings.json
 data.csv
-data/detail/df_loan1_b1.xlsx
+*.xlsx
