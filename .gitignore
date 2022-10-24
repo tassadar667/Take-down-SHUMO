@@ -5,3 +5,4 @@ data.csv
 *.xlsx
 .zip
 精简版.py
+catboost_info/*
